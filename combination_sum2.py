@@ -1,7 +1,7 @@
 from typing import List
 
 
-# Version TLE del problema 40 de leetcode
+# Version TLE del problema 40 de leetcode.
 
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
