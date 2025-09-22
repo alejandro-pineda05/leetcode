@@ -1,3 +1,6 @@
+# Problema 76 de leetcode
+
+
 def minWindow(s, t):
     # Inicializo el diccionario con la frecuencia de cada letra de t, y otro diccionario en el que llevo la cuenta actual
     frec_letras_clave = dict()
