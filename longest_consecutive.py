@@ -1,5 +1,7 @@
 # Solucion eficiente del problema 128 de leetcode
 # O(n)
+# Esta la hizo chat gpt
+
 def longestConsecutive(nums):
     num_set = set(nums)
     longest = 0
